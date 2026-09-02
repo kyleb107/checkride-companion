@@ -58,11 +58,11 @@ _Coming soon._
 ## More
 
 A full write-up — the problem, the engineering decisions, and what I would change next —
-is on my portfolio: **https://website-professional-bay.vercel.app/projects/checkride**
+is on my portfolio: **https://kylebarnes.app/projects/checkride**
 
 ---
 
 Kyle Barnes · Computer Science at UT Dallas · FAA-licensed private pilot
-[Portfolio](https://website-professional-bay.vercel.app) ·
+[Portfolio](https://kylebarnes.app) ·
 [LinkedIn](https://www.linkedin.com/in/kyle-barnes-cs) ·
 [GitHub](https://github.com/kyleb107)
