@@ -53,7 +53,14 @@ In active development. Targeting App Store and Google Play release.
 
 ## Screenshots
 
-_Coming soon._
+| | | |
+|:---:|:---:|:---:|
+| <img src="screenshots/honest-cost.png" width="240" alt="Onboarding screen showing a private pilot licence costs $12,000 to $20,000"> | <img src="screenshots/lesson-path.png" width="240" alt="The lesson path, showing units and locked lessons"> | <img src="screenshots/teaching.png" width="240" alt="A lesson's teaching stage with an unscored quick check"> |
+| **The number, up front**<br>Quotes below $12k assume the 40-hour legal minimum. Most people fly 60–75. | **Ground school with a shape**<br>41 lessons across 10 units, each unlocking the next. | **Teach first, then test**<br>Learn it → Practice → written-style checkpoint, held until the end. |
+| <img src="screenshots/cost-calculator.png" width="240" alt="Cost calculator with rate sliders and a live total"> | <img src="screenshots/schools.png" width="240" alt="A flight school listing with estimated hourly rates"> | <img src="screenshots/milestones.png" width="240" alt="Nine milestones from discovery flight to checkride"> |
+| **Your number, not a brochure's**<br>Drag the rates, pick how often you fly, watch the total move. | **Real schools and clubs**<br>Estimated all-in rates, with the limits of the data stated on screen. | **Nine milestones**<br>Discovery flight to checkride, broken into 35 concrete steps. |
+
+Rates shown are estimates from the app's own model, not quotes from any school.
 
 ## More
 
