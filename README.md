@@ -21,7 +21,7 @@ while I was doing it.
 
 **Ground school as a real curriculum**
 
-- 10 units, 39 lessons, 178 topics
+- 10 units, 41 lessons, 193 topics
 - A 40-question placement test sets the starting point, so a student who already knows
   airspace is not made to sit through it again
 - A spaced review scheduler resurfaces topics on an interval that stretches as you answer
